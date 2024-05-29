@@ -1,4 +1,4 @@
 [submodule "python-examples"]
 	path = python-examples
-	#url = https://github.com/sol-eng/python-examples.git
-	url = https://github.com/scubasteveqa/python-examples.git
+	url = https://github.com/sol-eng/python-examples.git
+	#url = https://github.com/scubasteveqa/python-examples.git
